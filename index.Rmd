@@ -1,0 +1,37 @@
+---
+title: "AWS Cloud Practicioner"
+author: "Greg Foletta"
+date: "02/07/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The following are the domains, key tools, and technologies covered in the exam.
+
+# Domains
+
+- [Cloud Concepts](domains/cloud_concepts.Rmd)
+- [Security and Compliance](domains/security_and_compliance.Rmd)
+- [Technology](domains/technology.Rmd)
+- [Billing and Pricing](doamins/billing_and_pricing.Rmd)
+
+# Tools and Technologies 
+
+- [Tools and Technologies](tools_and_technologies/tools_and_technologies.Rmd)
+
+# Services
+
+- [Analytics](services/analytics.Rmd)
+- [Application Integration](services/applicationm_integration.Rmd)
+- [Compute and Serverless](services/compute_and_serverless.Rmd)
+- [Containers](services/containers.Rmd)
+- [Database](services/database.Rmd)
+- [Developer Tools](services/developer_tools.Rmd)
+- [Customer Enagement](services/customer_engagement.Rmd)
+- [Management, Monitoring, Governance](services/management.Rmd)
+- [Networking and Content Delivery](services/networking_and_content_delivery.Rmd)
+- [Security, Identity, Compliance](services/security_identity_compliance.Rmd)
+- [Storage](services/storage.Rmd)
